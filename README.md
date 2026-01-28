@@ -1,9 +1,8 @@
-## Hi there 👋
 
 
-**parulrajput1612005-glitch/parulrajput1612005-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h1>Hi, I'm Parul Rajput</h1>
+
+<h1>Hi,👋 I'm Parul Rajput</h1>
 Fresher | Web Developer | Learner
 
 View Work
