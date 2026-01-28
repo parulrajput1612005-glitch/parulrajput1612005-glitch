@@ -1,35 +1,61 @@
 
 
 
+# Hi 👋 I'm Parul Rajput  
 
-<h1>Hi,👋 I'm Parul Rajput</h1>
-Fresher | Web Developer | Learner
+**Fresher | Web Developer | Learner**  
 
-View Work
-About Me
+🌱 Passionate about web development and learning new technologies every day.  
+💻 I enjoy coding, problem-solving, and building responsive websites.
 
-Brief introduction about myself
-My name is Parul Rajput
-I am fresher in web development I am learning new things every day
-I love coding and problem solving
+---
 
-Projects
-Portfolio Website
-Personal responsive portfolio using HTML & CSS.
+## 👩‍💻 About Me
 
-1. Portfolio Website
+My name is **Parul Rajput**.  
+I am a **fresher Web Developer** focused on creating clean, responsive, and user-friendly web designs.  
+I’m constantly learning and improving my skills step by step.
 
-2. deployed on github pages
+---
 
-3. Responsive Design
+## 🚀 Projects
 
-Landing Page
-Modern landing page
+### 🔹 Portfolio Website
+- Personal responsive portfolio  
+- Built using **HTML & CSS**  
+- Fully responsive  
+- Deployed on **GitHub Pages**
 
-Skills
-Html Csss JavaScript Git GitHub
-Contact Me
-Email: parulrajput1612005@email.com
+### 🔹 Landing Page
+- Modern landing page design  
+- Responsive for all screen sizes  
 
-Phone: 7807839599
+---
 
+## 🛠️ Skills
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+![Parul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parulrajput1612005-glitch&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parulrajput1612005-glitch&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: **parulrajput1612005@email.com**  
+- 📞 Phone: **780783959**
+
+---
+
+✨ *Learning every day. Building step by step.*  
+⭐ Feel free to explore my repositories!
